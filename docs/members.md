@@ -1,7 +1,6 @@
 ---
 title: Meet the Members!
 layout: default
-permalink: /members
 ---
 
 # CPSC 481: HCI Team Project
