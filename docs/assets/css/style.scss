@@ -1,0 +1,56 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$header-bg-clr: #159957;
+$header-bg-clr-secondary: #155799;
+
+a.home {
+    margin-right: auto;
+}
+
+header.nav-header {
+    color: rgba(21,87,153,1);
+    box-sizing: border-box;
+    margin: 0;
+    padding: 5px 10%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+header.nav-header a:hover{
+    color: rgba(21,87,153,0.8);
+    text-decoration: none;
+}
+
+nav.main-nav {
+    list-style: none;
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+nav.main-nav li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+nav.main-nav li a {
+    transition: all 0.3s ease 0s;
+}
+
+button.mem {
+    color: white;
+    margin-left: 20px;
+    padding: 9px 25px;
+    background-color: rgba(21,87,153,1);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+button.mem:hover{
+    background-color: rgba(21,87,153,0.8);
+}
