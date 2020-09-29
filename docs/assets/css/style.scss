@@ -6,18 +6,14 @@
 $header-bg-clr: #159957;
 $header-bg-clr-secondary: #155799;
 
-a.home {
-    margin-right: auto;
-}
-
 header.nav-header {
     color: rgba(21,87,153,1);
     box-sizing: border-box;
     margin: 0;
-    padding: 5px 10%;
+    padding: 0px 10%;
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: flex-start;
 }
 
 header.nav-header a:hover{
@@ -28,29 +24,19 @@ header.nav-header a:hover{
 nav.main-nav {
     list-style: none;
     display: inline-block;
-    padding: 0px 20px;
 }
 
 nav.main-nav li {
     display: inline-block;
-    padding: 0px 20px;
+    padding-right: 40px;
 }
 
 nav.main-nav li a {
     transition: all 0.3s ease 0s;
 }
 
-button.mem {
-    color: white;
-    margin-left: 20px;
-    padding: 9px 25px;
-    background-color: rgba(21,87,153,1);
-    border: none;
-    border-radius: 50px;
-    cursor: pointer;
-    transition: all 0.3s ease 0s;
-}
-
-button.mem:hover{
-    background-color: rgba(21,87,153,0.8);
+.vertical { 
+    margin-left: 30px;
+    border-left: 2px solid rgba(21,87,153,1); 
+    height: 30px;
 }
