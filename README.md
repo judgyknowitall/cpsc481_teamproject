@@ -31,9 +31,9 @@ The team project consists of five iterations:
 ## Stage 1
 - Repo on GitHub : link [here](https://github.com/judgyknowitall/cpsc481_teamproject)
 - Portfolio on GitHub Pages : link [here](https://judgyknowitall.github.io/cpsc481_teamproject/)
-- Contract submitted on D2L
+- Contract submitted on D2L and available on the [stage1 branch](https://github.com/judgyknowitall/cpsc481_teamproject/blob/stage1/TeamContract.pdf)
 - 3 Ideas available for view [here](https://judgyknowitall.github.io/cpsc481_teamproject/stage_1)
-- Submission on [stage1 branch](https://github.com/judgyknowitall/cpsc481_teamproject/blob/stage1/TeamContract.pdf)
+- Submission on the [stage1 branch](https://github.com/judgyknowitall/cpsc481_teamproject/blob/stage1/TeamContract.pdf)
 
 ---
 
