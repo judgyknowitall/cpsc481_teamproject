@@ -17,12 +17,12 @@ download_txt: Download deliverable
 ---
 
 ### Team Contract
-Omitted from github-pages for security reasons.
-Please refer to [stage1 branch](https://github.com/judgyknowitall/cpsc481_teamproject/blob/stage1/TeamContract.pdf) for complete contract.
+Omitted from GitHub and github-pages for security reasons.
+Please refer to D2L submission for complete contract.
 
 
 ### Online Repository
-Created privately on [GitHub](https://github.com/judgyknowitall/cpsc481_teamproject).  
+Created publicly on [GitHub](https://github.com/judgyknowitall/cpsc481_teamproject).  
 Each project stage is on its own separate branch. (portfolio specifics is on main branch)
 
 
