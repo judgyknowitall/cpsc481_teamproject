@@ -4,7 +4,7 @@ description: Let's design something new!
 layout: default
 view_github: "true"
 branch: '/tree/stage1'
-download_url: '/releases/tag/v0.0-alpha'
+download_url: '/releases/tag/v1.0'
 download_txt: Download deliverable
 ---
 
