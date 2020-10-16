@@ -2,7 +2,7 @@
 CPSC 481: HCI Team Project Repository
 
 ## Team Members:
-- Dheeraj Khumar
+- Dheeraj Kumar
 - Jason Li
 - Gabriella Kenna
 - Paru Basnet
