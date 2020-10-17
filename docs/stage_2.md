@@ -3,8 +3,8 @@ title: Stage 2
 description: User Research
 layout: default
 view_github: "true"
-branch: '/tree/stage2'
-download_url: '/releases/tag/v1.0'
+branch: '/tree/stage_2'
+download_url: '/releases/tag/v2.0'
 download_txt: Download deliverable
 ---
 
