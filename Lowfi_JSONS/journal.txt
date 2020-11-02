@@ -1,0 +1,271 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "typeID": "iPhone",
+                    "zOrder": "0",
+                    "w": "511",
+                    "h": "1015",
+                    "measuredW": "436",
+                    "measuredH": "867",
+                    "x": "661",
+                    "y": "108",
+                    "properties": {
+                        "model": "IPhoneX",
+                        "resizing": "stretch",
+                        "bgTransparent": "true"
+                    }
+                },
+                {
+                    "ID": "2",
+                    "typeID": "Icon",
+                    "zOrder": "2",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "700",
+                    "y": "197",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-left",
+                            "size": "large"
+                        },
+                        "href": {
+                            "ID": "B48E9519-7B22-483A-994A-864EF0EC3A77"
+                        }
+                    }
+                },
+                {
+                    "ID": "4",
+                    "typeID": "Title",
+                    "zOrder": "3",
+                    "measuredW": "224",
+                    "measuredH": "44",
+                    "x": "800",
+                    "y": "199",
+                    "properties": {
+                        "text": "Lemon Lime"
+                    }
+                },
+                {
+                    "ID": "5",
+                    "typeID": "Icon",
+                    "zOrder": "4",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "1062",
+                    "y": "197",
+                    "properties": {
+                        "icon": {
+                            "ID": "bell",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "17",
+                    "typeID": "TextArea",
+                    "zOrder": "1",
+                    "w": "419",
+                    "h": "76",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "707",
+                    "y": "291",
+                    "properties": {
+                        "state": "disabled"
+                    }
+                },
+                {
+                    "ID": "18",
+                    "typeID": "TextArea",
+                    "zOrder": "5",
+                    "w": "420",
+                    "h": "77",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "707",
+                    "y": "383"
+                },
+                {
+                    "ID": "19",
+                    "typeID": "TextArea",
+                    "zOrder": "6",
+                    "w": "420",
+                    "h": "70",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "707",
+                    "y": "476"
+                },
+                {
+                    "ID": "20",
+                    "typeID": "TextArea",
+                    "zOrder": "7",
+                    "w": "420",
+                    "h": "91",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "707",
+                    "y": "671"
+                },
+                {
+                    "ID": "21",
+                    "typeID": "TextArea",
+                    "zOrder": "8",
+                    "w": "420",
+                    "h": "75",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "707",
+                    "y": "778"
+                },
+                {
+                    "ID": "22",
+                    "typeID": "Icon",
+                    "zOrder": "9",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "893",
+                    "y": "869",
+                    "properties": {
+                        "icon": {
+                            "ID": "pagelines",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "25",
+                    "typeID": "Paragraph",
+                    "zOrder": "10",
+                    "w": "112",
+                    "h": "33",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "788",
+                    "y": "313",
+                    "properties": {
+                        "text": "Update Status",
+                        "size": "16",
+                        "color": "13421772"
+                    }
+                },
+                {
+                    "ID": "26",
+                    "typeID": "Icon",
+                    "zOrder": "11",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "724",
+                    "y": "306",
+                    "properties": {
+                        "icon": {
+                            "ID": "plus-square-o",
+                            "size": "large"
+                        },
+                        "color": "13421772"
+                    }
+                },
+                {
+                    "ID": "27",
+                    "typeID": "Paragraph",
+                    "zOrder": "12",
+                    "w": "386",
+                    "h": "49",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "724",
+                    "y": "400",
+                    "properties": {
+                        "text": "*2020/11/01*\nWatered. Plant is healthy",
+                        "size": "15"
+                    }
+                },
+                {
+                    "ID": "29",
+                    "typeID": "Paragraph",
+                    "zOrder": "13",
+                    "w": "386",
+                    "h": "50",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "724",
+                    "y": "489",
+                    "properties": {
+                        "text": "*2020/10/28*\nWatered. Plant is healthy",
+                        "size": "15"
+                    }
+                },
+                {
+                    "ID": "30",
+                    "typeID": "TextArea",
+                    "zOrder": "14",
+                    "w": "420",
+                    "h": "93",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "707",
+                    "y": "562"
+                },
+                {
+                    "ID": "31",
+                    "typeID": "Paragraph",
+                    "zOrder": "15",
+                    "w": "386",
+                    "h": "61",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "724",
+                    "y": "575",
+                    "properties": {
+                        "text": "*2020/10/27*\nMissed Watering Time. Reminder was snoozed to next day.",
+                        "size": "15"
+                    }
+                },
+                {
+                    "ID": "32",
+                    "typeID": "Paragraph",
+                    "zOrder": "16",
+                    "w": "386",
+                    "h": "65",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "724",
+                    "y": "687",
+                    "properties": {
+                        "text": "*2020/10/26*\nMissed Watering Time. Reminder was snoozed to next day.",
+                        "size": "15"
+                    }
+                },
+                {
+                    "ID": "33",
+                    "typeID": "Paragraph",
+                    "zOrder": "17",
+                    "w": "386",
+                    "h": "48",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "724",
+                    "y": "795",
+                    "properties": {
+                        "text": "*2020/10/23*\nPlant Added!",
+                        "size": "15"
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "Journal",
+            "order": 1000011.3651905364,
+            "parentID": null
+        },
+        "resourceID": "C3364E07-DF7B-42CA-B7F7-7931E7C7D9DA",
+        "mockupH": "1015",
+        "mockupW": "511",
+        "measuredW": "1172",
+        "measuredH": "1123",
+        "version": "1.0"
+    }
+}

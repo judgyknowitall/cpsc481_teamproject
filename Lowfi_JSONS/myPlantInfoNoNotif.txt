@@ -1,0 +1,251 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "14",
+                    "typeID": "iPhone",
+                    "zOrder": "0",
+                    "w": "511",
+                    "h": "1015",
+                    "measuredW": "436",
+                    "measuredH": "867",
+                    "x": "661",
+                    "y": "108",
+                    "properties": {
+                        "model": "IPhoneX",
+                        "resizing": "stretch",
+                        "bgTransparent": "true"
+                    }
+                },
+                {
+                    "ID": "15",
+                    "typeID": "Image",
+                    "zOrder": "2",
+                    "w": "402",
+                    "h": "478",
+                    "measuredW": "77",
+                    "measuredH": "79",
+                    "x": "716",
+                    "y": "285"
+                },
+                {
+                    "ID": "16",
+                    "typeID": "Icon",
+                    "zOrder": "3",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "700",
+                    "y": "197",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-left",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "17",
+                    "typeID": "HorizontalScrollBar",
+                    "zOrder": "4",
+                    "w": "264",
+                    "measuredW": "100",
+                    "measuredH": "16",
+                    "x": "794",
+                    "y": "796"
+                },
+                {
+                    "ID": "18",
+                    "typeID": "Title",
+                    "zOrder": "5",
+                    "measuredW": "224",
+                    "measuredH": "44",
+                    "x": "814",
+                    "y": "858",
+                    "properties": {
+                        "text": "Lemon Lime"
+                    }
+                },
+                {
+                    "ID": "20",
+                    "typeID": "SubTitle",
+                    "zOrder": "6",
+                    "measuredW": "197",
+                    "measuredH": "28",
+                    "x": "827",
+                    "y": "918",
+                    "properties": {
+                        "text": "Watering Overdue"
+                    }
+                },
+                {
+                    "ID": "21",
+                    "typeID": "Icon",
+                    "zOrder": "7",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "1014",
+                    "y": "986",
+                    "properties": {
+                        "icon": {
+                            "ID": "heartbeat",
+                            "size": "large"
+                        },
+                        "href": {
+                            "ID": "C3364E07-DF7B-42CA-B7F7-7931E7C7D9DA"
+                        }
+                    }
+                },
+                {
+                    "ID": "22",
+                    "typeID": "Paragraph",
+                    "zOrder": "8",
+                    "w": "94",
+                    "h": "26",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "767",
+                    "y": "1043",
+                    "properties": {
+                        "text": "Set Reminders",
+                        "href": {
+                            "ID": "FDCB0114-FAB9-458B-AD30-BAAE8A11DF56"
+                        }
+                    }
+                },
+                {
+                    "ID": "23",
+                    "typeID": "Paragraph",
+                    "zOrder": "9",
+                    "w": "85",
+                    "h": "26",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "998",
+                    "y": "1043",
+                    "properties": {
+                        "text": "Health Status",
+                        "href": {
+                            "ID": "C3364E07-DF7B-42CA-B7F7-7931E7C7D9DA"
+                        }
+                    }
+                },
+                {
+                    "ID": "24",
+                    "typeID": "Icon",
+                    "zOrder": "10",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "790",
+                    "y": "986",
+                    "properties": {
+                        "icon": {
+                            "ID": "calendar-check-o",
+                            "size": "large"
+                        },
+                        "href": {
+                            "ID": "FDCB0114-FAB9-458B-AD30-BAAE8A11DF56"
+                        }
+                    }
+                },
+                {
+                    "ID": "25",
+                    "typeID": "TextArea",
+                    "zOrder": "11",
+                    "w": "104",
+                    "h": "91",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "707",
+                    "y": "275",
+                    "properties": {
+                        "href": {
+                            "ID": "FDCB0114-FAB9-458B-AD30-BAAE8A11DF56"
+                        }
+                    }
+                },
+                {
+                    "ID": "26",
+                    "typeID": "Icon",
+                    "zOrder": "12",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "736",
+                    "y": "308",
+                    "properties": {
+                        "icon": {
+                            "ID": "circle-o-notch",
+                            "size": "large"
+                        },
+                        "href": {
+                            "ID": "FDCB0114-FAB9-458B-AD30-BAAE8A11DF56"
+                        }
+                    }
+                },
+                {
+                    "ID": "27",
+                    "typeID": "Paragraph",
+                    "zOrder": "13",
+                    "w": "96",
+                    "h": "26",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "715",
+                    "y": "284",
+                    "properties": {
+                        "text": "Next Watering",
+                        "href": {
+                            "ID": "FDCB0114-FAB9-458B-AD30-BAAE8A11DF56"
+                        }
+                    }
+                },
+                {
+                    "ID": "28",
+                    "typeID": "Paragraph",
+                    "zOrder": "14",
+                    "w": "21",
+                    "h": "19",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "755",
+                    "y": "325",
+                    "properties": {
+                        "text": "3",
+                        "href": {
+                            "ID": "FDCB0114-FAB9-458B-AD30-BAAE8A11DF56"
+                        }
+                    }
+                },
+                {
+                    "ID": "29",
+                    "typeID": "Icon",
+                    "zOrder": "1",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "1062",
+                    "y": "197",
+                    "properties": {
+                        "icon": {
+                            "ID": "bell-slash",
+                            "size": "large"
+                        },
+                        "href": {
+                            "ID": "B48E9519-7B22-483A-994A-864EF0EC3A77"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "My Plant Info notifications off",
+            "order": 1000005.988841735,
+            "parentID": null
+        },
+        "resourceID": "4E936177-828B-4F22-BF4D-52CF0634F6D5",
+        "mockupH": "1015",
+        "mockupW": "511",
+        "measuredW": "1172",
+        "measuredH": "1123",
+        "version": "1.0"
+    }
+}

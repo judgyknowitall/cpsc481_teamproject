@@ -1,0 +1,512 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "typeID": "iPhone",
+                    "zOrder": "32",
+                    "w": "511",
+                    "h": "1015",
+                    "measuredW": "436",
+                    "measuredH": "867",
+                    "x": "661",
+                    "y": "108",
+                    "properties": {
+                        "model": "IPhoneX",
+                        "resizing": "stretch",
+                        "bgTransparent": "true"
+                    }
+                },
+                {
+                    "ID": "2",
+                    "typeID": "Icon",
+                    "zOrder": "0",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "700",
+                    "y": "197",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-left",
+                            "size": "large"
+                        },
+                        "href": {
+                            "ID": "B48E9519-7B22-483A-994A-864EF0EC3A77"
+                        }
+                    }
+                },
+                {
+                    "ID": "3",
+                    "typeID": "Title",
+                    "zOrder": "1",
+                    "measuredW": "199",
+                    "measuredH": "44",
+                    "x": "828",
+                    "y": "199",
+                    "properties": {
+                        "text": "Reminders"
+                    }
+                },
+                {
+                    "ID": "23",
+                    "typeID": "Icon",
+                    "zOrder": "2",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "890",
+                    "y": "312",
+                    "properties": {
+                        "icon": {
+                            "ID": "circle-o-notch",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "24",
+                    "typeID": "Paragraph",
+                    "zOrder": "3",
+                    "w": "133",
+                    "h": "31",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "850",
+                    "y": "274",
+                    "properties": {
+                        "text": "Next Watering",
+                        "size": "20"
+                    }
+                },
+                {
+                    "ID": "25",
+                    "typeID": "Paragraph",
+                    "zOrder": "4",
+                    "w": "13",
+                    "h": "19",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "910",
+                    "y": "327",
+                    "properties": {
+                        "text": "3"
+                    }
+                },
+                {
+                    "ID": "26",
+                    "typeID": "Paragraph",
+                    "zOrder": "5",
+                    "w": "80",
+                    "h": "39",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "877",
+                    "y": "376",
+                    "properties": {
+                        "text": "3 Days",
+                        "size": "24"
+                    }
+                },
+                {
+                    "ID": "28",
+                    "typeID": "TextArea",
+                    "zOrder": "6",
+                    "w": "64",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "707",
+                    "y": "461",
+                    "properties": {
+                        "text": "Nov 4",
+                        "size": "14",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "31",
+                    "typeID": "TextArea",
+                    "zOrder": "7",
+                    "w": "340",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "787",
+                    "y": "461",
+                    "properties": {
+                        "text": "Watering Reminder"
+                    }
+                },
+                {
+                    "ID": "32",
+                    "typeID": "Paragraph",
+                    "zOrder": "8",
+                    "w": "36",
+                    "h": "23",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "722",
+                    "y": "431",
+                    "properties": {
+                        "text": "*Date*"
+                    }
+                },
+                {
+                    "ID": "33",
+                    "typeID": "Paragraph",
+                    "zOrder": "9",
+                    "w": "282",
+                    "h": "29",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "787",
+                    "y": "431",
+                    "properties": {
+                        "text": "*Reminder*"
+                    }
+                },
+                {
+                    "ID": "34",
+                    "typeID": "Icon",
+                    "zOrder": "10",
+                    "measuredW": "24",
+                    "measuredH": "24",
+                    "x": "1103",
+                    "y": "431",
+                    "properties": {
+                        "icon": {
+                            "ID": "pencil-square",
+                            "size": "small"
+                        }
+                    }
+                },
+                {
+                    "ID": "35",
+                    "typeID": "TextArea",
+                    "zOrder": "11",
+                    "w": "64",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "707",
+                    "y": "520",
+                    "properties": {
+                        "text": "Nov 7",
+                        "size": "14",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "36",
+                    "typeID": "TextArea",
+                    "zOrder": "12",
+                    "w": "340",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "787",
+                    "y": "520",
+                    "properties": {
+                        "text": "Watering Reminder"
+                    }
+                },
+                {
+                    "ID": "37",
+                    "typeID": "TextArea",
+                    "zOrder": "13",
+                    "w": "64",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "707",
+                    "y": "579",
+                    "properties": {
+                        "text": "Nov 10",
+                        "size": "14",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "38",
+                    "typeID": "TextArea",
+                    "zOrder": "14",
+                    "w": "340",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "787",
+                    "y": "579",
+                    "properties": {
+                        "text": "Watering Reminder"
+                    }
+                },
+                {
+                    "ID": "39",
+                    "typeID": "TextArea",
+                    "zOrder": "15",
+                    "w": "64",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "707",
+                    "y": "638",
+                    "properties": {
+                        "text": "Nov 13",
+                        "size": "14",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "40",
+                    "typeID": "TextArea",
+                    "zOrder": "16",
+                    "w": "340",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "787",
+                    "y": "638",
+                    "properties": {
+                        "text": "Watering Reminder"
+                    }
+                },
+                {
+                    "ID": "41",
+                    "typeID": "TextArea",
+                    "zOrder": "17",
+                    "w": "64",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "707",
+                    "y": "697",
+                    "properties": {
+                        "text": "Nov 16",
+                        "size": "14",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "42",
+                    "typeID": "TextArea",
+                    "zOrder": "18",
+                    "w": "340",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "787",
+                    "y": "697",
+                    "properties": {
+                        "text": "Watering Reminder"
+                    }
+                },
+                {
+                    "ID": "43",
+                    "typeID": "TextArea",
+                    "zOrder": "19",
+                    "w": "64",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "707",
+                    "y": "756",
+                    "properties": {
+                        "text": "Nov 19",
+                        "size": "14",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "44",
+                    "typeID": "TextArea",
+                    "zOrder": "20",
+                    "w": "340",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "787",
+                    "y": "756",
+                    "properties": {
+                        "text": "Watering Reminder"
+                    }
+                },
+                {
+                    "ID": "47",
+                    "typeID": "TextArea",
+                    "zOrder": "21",
+                    "w": "64",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "707",
+                    "y": "815",
+                    "properties": {
+                        "text": "Nov 7",
+                        "size": "14",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "48",
+                    "typeID": "TextArea",
+                    "zOrder": "22",
+                    "w": "340",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "787",
+                    "y": "815",
+                    "properties": {
+                        "text": "Watering Reminder"
+                    }
+                },
+                {
+                    "ID": "49",
+                    "typeID": "TextArea",
+                    "zOrder": "23",
+                    "w": "64",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "707",
+                    "y": "874",
+                    "properties": {
+                        "text": "Nov 10",
+                        "size": "14",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "50",
+                    "typeID": "TextArea",
+                    "zOrder": "24",
+                    "w": "340",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "787",
+                    "y": "874",
+                    "properties": {
+                        "text": "Watering Reminder"
+                    }
+                },
+                {
+                    "ID": "51",
+                    "typeID": "TextArea",
+                    "zOrder": "25",
+                    "w": "64",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "707",
+                    "y": "933",
+                    "properties": {
+                        "text": "Nov 13",
+                        "size": "14",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "52",
+                    "typeID": "TextArea",
+                    "zOrder": "26",
+                    "w": "340",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "787",
+                    "y": "933",
+                    "properties": {
+                        "text": "Watering Reminder"
+                    }
+                },
+                {
+                    "ID": "53",
+                    "typeID": "TextArea",
+                    "zOrder": "27",
+                    "w": "64",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "707",
+                    "y": "992",
+                    "properties": {
+                        "text": "Nov 16",
+                        "size": "14",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "54",
+                    "typeID": "TextArea",
+                    "zOrder": "28",
+                    "w": "340",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "787",
+                    "y": "992",
+                    "properties": {
+                        "text": "Watering Reminder"
+                    }
+                },
+                {
+                    "ID": "55",
+                    "typeID": "TextArea",
+                    "zOrder": "29",
+                    "w": "64",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "707",
+                    "y": "1051",
+                    "properties": {
+                        "text": "Nov 19",
+                        "size": "14",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "56",
+                    "typeID": "TextArea",
+                    "zOrder": "30",
+                    "w": "340",
+                    "h": "43",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "787",
+                    "y": "1051",
+                    "properties": {
+                        "text": "Fertilizing Reminder"
+                    }
+                },
+                {
+                    "ID": "59",
+                    "typeID": "Icon",
+                    "zOrder": "31",
+                    "measuredW": "24",
+                    "measuredH": "24",
+                    "x": "1079",
+                    "y": "431",
+                    "properties": {
+                        "icon": {
+                            "ID": "plus-square",
+                            "size": "small"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "Reminders",
+            "order": 1000018.8935325048,
+            "parentID": null
+        },
+        "resourceID": "FDCB0114-FAB9-458B-AD30-BAAE8A11DF56",
+        "mockupH": "1015",
+        "mockupW": "511",
+        "measuredW": "1172",
+        "measuredH": "1123",
+        "version": "1.0"
+    }
+}
