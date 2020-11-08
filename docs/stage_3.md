@@ -22,6 +22,7 @@ download_txt: Download deliverable
 
 ## Presentation
 Follow this link to view the powerpoint presentation.
+
 [![HCI FALL 2020 - Stage 3 Presentation](assets/pics/stage3_pres.png)](https://uofc.sharepoint.com/:p:/s/GrpO365_Science_ComputerScience_CPSC481F2020-TeamB/EWBq8fXbcO9FmFTaIqqo_5YBoQdAkbGA3AftMKoiLpZlsw?e=invvgZ)
 
 ---
