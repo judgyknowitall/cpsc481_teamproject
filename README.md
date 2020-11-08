@@ -44,3 +44,11 @@ The team project consists of five iterations:
 
 ---
 
+## Stage 3
+- Report submitted on D2L and available on the [stage_3 branch](https://github.com/judgyknowitall/cpsc481_teamproject/blob/stage3/)
+- Stage 3 presentation available [on Sharepoint](https://uofc.sharepoint.com/:p:/s/GrpO365_Science_ComputerScience_CPSC481F2020-TeamB/EWBq8fXbcO9FmFTaIqqo_5YBoQdAkbGA3AftMKoiLpZlsw?e=invvgZ) and [on YouTube](https://www.youtube.com/watch?v=sKIyouqejVw)
+- Stage 3 report available [here](https://judgyknowitall.github.io/cpsc481_teamproject/stage_3)
+- Submission on the [stage_3 deliverable](https://github.com/judgyknowitall/cpsc481_teamproject/releases/tag/v3.0)
+
+---
+
