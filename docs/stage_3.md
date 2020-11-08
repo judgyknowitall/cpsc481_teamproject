@@ -1,6 +1,6 @@
 ---
 title: Stage 3
-description: Ideation and Lo-fi prototypes
+description: Ideation and Lo-fi prototype
 layout: default
 view_github: "true"
 branch: '/tree/stage_3'
@@ -21,7 +21,7 @@ download_txt: Download deliverable
 ---
 
 ## Presentation
-[![HCI FALL 2020 - Stage 3 Presentation](assets/pics/stage3_pres.png)](https://www.youtube.com/watch?v=sKIyouqejVw)
+[![HCI FALL 2020 - Stage 3 Presentation](http://img.youtube.com/vi/sKIyouqejVw/0.jpg)](https://www.youtube.com/watch?v=sKIyouqejVw)
 
 ---
 
@@ -39,6 +39,7 @@ This is where the mobile application would come in. The app would primarily disp
     1. Add a new plant using the camera. First, the user identifies the plant via camera, then they are shown a list of best matches based on the results. The user may then select a plant to add to their Plant List. If a match is not found, they have the option to try again or use a different method to identify the plant. 
     2. Add a new plant from the Catalogue. After browsing through the Catalogue, a user may select a plant to view its info or add the plant to their Plant List directly using the add button on the plant item. 
     3. Set up Reminders. When adding a new plant, the app will automatically calculate and set reminders based on the plant’s status. The user may turn on/off these notifications and edit or add extra reminders as necessary. 
+
 - Horizontal Tasks: 
     1. View list of currently owned plants, more information about the plant, and its current status. 
     2. View a list of recommended plants in Catalogue that will be derived based on your preferences.  
@@ -112,7 +113,7 @@ One area that didn’t go as well was the affinity diagram. As we had to set our
 
 #### Samples of Ideas and sketches:
 
-![Affinity Diagram](assets/pics/stage3_3.jpg)
+![Affinity Diagram](assets/pics/stage3_3.jpg)  
 ![Affinity Diagram](assets/pics/stage3_4.png)
 ![Affinity Diagram](assets/pics/stage3_5.jpg)
 ![Affinity Diagram](assets/pics/stage3_6.jpg)
