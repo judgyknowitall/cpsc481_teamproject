@@ -2,7 +2,7 @@
 CPSC 481: HCI Team Project Repository
 
 ## Team Members:
-- Dheeraj Khumar
+- Dheeraj Kumar
 - Jason Li
 - Gabriella Kenna
 - Paru Basnet
@@ -14,7 +14,7 @@ The team project consists of five iterations:
 1. Stage 1
     - Create a Team contract, online repository and portfolio for the project and come up with 3 detailed ideas.
 2. User Research
-    - Conduct two different IDEO methods to learn about our users in their environment.
+    - Conduct three different IDEO methods to learn about our users in their environment.
     - Submit a report describing the process and our findings.
 3. Ideation and Lo-fi prototypes
     - Brainstorm and sketch a variety of possible interfaces for system, identifying important aspects of a user's flow. 
@@ -31,9 +31,23 @@ The team project consists of five iterations:
 ## Stage 1
 - Repo on GitHub : link [here](https://github.com/judgyknowitall/cpsc481_teamproject)
 - Portfolio on GitHub Pages : link [here](https://judgyknowitall.github.io/cpsc481_teamproject/)
-- Contract submitted on D2L
+- Contract submitted on D2L and available on the [stage1 branch](https://github.com/judgyknowitall/cpsc481_teamproject/blob/stage1/TeamContract.pdf)
 - 3 Ideas available for view [here](https://judgyknowitall.github.io/cpsc481_teamproject/stage_1)
-- Submission on [stage1 branch](https://github.com/judgyknowitall/cpsc481_teamproject/blob/stage1/TeamContract.pdf)
+- Submission on the [stage1 deliverable](https://github.com/judgyknowitall/cpsc481_teamproject/releases/tag/v1.0)
 
 ---
 
+## Stage 2
+- Report submitted on D2L and available on the [stage_2 branch](https://github.com/judgyknowitall/cpsc481_teamproject/blob/stage2/)
+- Stage 2 report available [here](https://judgyknowitall.github.io/cpsc481_teamproject/stage_2)
+- Submission on the [stage_2 deliverable](https://github.com/judgyknowitall/cpsc481_teamproject/releases/tag/v2.0)
+
+---
+
+## Stage 3
+- Report submitted on D2L and available on the [stage_3 branch](https://github.com/judgyknowitall/cpsc481_teamproject/blob/stage3/)
+- Stage 3 PowerPoint Presentation available [here](https://uofc.sharepoint.com/:p:/s/GrpO365_Science_ComputerScience_CPSC481F2020-TeamB/EWBq8fXbcO9FmFTaIqqo_5YBoQdAkbGA3AftMKoiLpZlsw?e=invvgZ)
+- Stage 3 report available [here](https://judgyknowitall.github.io/cpsc481_teamproject/stage_3)
+- Submission on the [stage_3 deliverable](https://github.com/judgyknowitall/cpsc481_teamproject/releases/tag/v3.0)
+
+---
