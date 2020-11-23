@@ -38,16 +38,24 @@ The team project consists of five iterations:
 ---
 
 ## Stage 2
-- Report submitted on D2L and available on the [stage_2 branch](https://github.com/judgyknowitall/cpsc481_teamproject/blob/stage2/)
+- Report submitted on D2L and available on the [stage_2 branch](https://github.com/judgyknowitall/cpsc481_teamproject/tree/stage_2/)
 - Stage 2 report available [here](https://judgyknowitall.github.io/cpsc481_teamproject/stage_2)
 - Submission on the [stage_2 deliverable](https://github.com/judgyknowitall/cpsc481_teamproject/releases/tag/v2.0)
 
 ---
 
 ## Stage 3
-- Report submitted on D2L and available on the [stage_3 branch](https://github.com/judgyknowitall/cpsc481_teamproject/blob/stage3/)
+- Report submitted on D2L and available on the [stage_3 branch](https://github.com/judgyknowitall/cpsc481_teamproject/tree/stage_3)
 - Stage 3 PowerPoint Presentation available [here](https://uofc.sharepoint.com/:p:/s/GrpO365_Science_ComputerScience_CPSC481F2020-TeamB/EWBq8fXbcO9FmFTaIqqo_5YBoQdAkbGA3AftMKoiLpZlsw?e=invvgZ)
 - Stage 3 report available [here](https://judgyknowitall.github.io/cpsc481_teamproject/stage_3)
 - Submission on the [stage_3 deliverable](https://github.com/judgyknowitall/cpsc481_teamproject/releases/tag/v3.0)
+
+---
+
+## Stage 4
+- Report submitted on D2L and available on the [stage_4 branch](https://github.com/judgyknowitall/cpsc481_teamproject/tree/stage_4)
+- Stage 4 PowerPoint Presentation available [here](https://uofc.sharepoint.com/:p:/s/GrpO365_Science_ComputerScience_CPSC481F2020-TeamB/ESpgulX8rf9Gr1QLJlsVAwcBCry5aTqoLrW9ISharOllsQ?e=Zb8YIm)
+- Stage 4 report available [here](https://judgyknowitall.github.io/cpsc481_teamproject/stage_4)
+- Submission on the [stage_4 deliverable](https://github.com/judgyknowitall/cpsc481_teamproject/releases/tag/v4.0)
 
 ---
