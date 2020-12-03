@@ -111,99 +111,7 @@ Given the limited timeframe and our limited experience levels, the team thought 
 
 ---
 
-### Appendix
-
-#### Survey Questions
-
-![Survey Questions page 1](assets/pics/stage2_7.png)
-
-Questions for houseplant owners – only reached if the user answered yes to “Do you own any plants?”:
-
-![Survey Questions page 2](assets/pics/stage2_8.png)
-
-![Survey Questions page 3](assets/pics/stage2_9.png)
-
-Questions for people without plants – only reached if the user answered no to “Do you own any plants?”:
-
-![Survey Questions page 4](assets/pics/stage2_10.png)
-
-After answering questions relevant to owning/not owning plants, the survey converged again:
-
-![Survey Questions page 5](assets/pics/stage2_11.png)
-
-If the participant had killed a plant:
-
-![Survey Questions page 6](assets/pics/stage2_12.png)
-
-![Survey Questions page 7](assets/pics/stage2_13.png)
-
-If the participant said yes or maybe to using a plant care app:
-
-![Survey Questions page 8](assets/pics/stage2_14.png)
-
-
-#### Survey Response Breakdowns from Google
-
-![Survey Responses](assets/pics/stage2_15.png)  
-![Survey Responses](assets/pics/stage2_16.png)  
-![Survey Responses](assets/pics/stage2_17.png)  
-![Survey Responses](assets/pics/stage2_18.png)  
-1 = My plants always dry out, 5 = My plants are always well watered  
-![Survey Responses](assets/pics/stage2_19.png)  
-1 = My plants are always well watered, 3 = Most of my plants are different  
-
-![Survey Responses](assets/pics/stage2_20.png)  
-![Survey Responses](assets/pics/stage2_21.png)  
-![Survey Responses](assets/pics/stage2_22.png)  
-![Survey Responses](assets/pics/stage2_23.png)  
-1 = Plants need more than water?, 5 = I'm confident I know what my plants need
-
-Where do you look for care instructions for your plants?
-- YouTube (5)
-- Google/Internet/Websites (6)
-- Mom (1)
-- The plant’s instruction booklet (1)
-- The earth speaks to me and tells me my plants’ needs (1)
-- Friend (1)
-
-![Survey Responses](assets/pics/stage2_24.png)  
-![Survey Responses](assets/pics/stage2_25.png)  
-![Survey Responses](assets/pics/stage2_26.png)  
-![Survey Responses](assets/pics/stage2_27.png)  
-![Survey Responses](assets/pics/stage2_28.png)  
-![Survey Responses](assets/pics/stage2_29.png)  
-
-What would you like to see in a plant care app to help you?
-- What my plant needs for growth?
-- Identification of plant
-- Reminders, amount of water
-- I'm not sure. Maybe something to tell me the health of a plant given it's species to tracking the soil saturation level/mineral content?
-- What type of environment it lives in
-- How much should I water a plant (with a set schedule for me to follow)
-- just a small reminder for specific things that i will have to do to make sure my plant stays alive.
-- reminders, instructions, diagnosis if possible
-- Give me guidelines on how to care properly for a plant and recommend houseplants depending on where I live
-- What I should do with my plant, also keep track of if I have water it or not
-- Information for common houseplants, such as sunlight, water, soil needs
-- Determine plant type and how to care for it. Keep track of taking care of plant.
-- Clean interface, accurate and important details, non-intrusive reminders
-- A rough description of it' status.
-- Data tracking and a note section to keep track of any abnormalities
-- Monitoring water levels; monitoring if the plant is getting enough sunlight; monitoring soil quality
-
-![Survey Responses](assets/pics/stage2_30.png)  
-
-
-#### Scenarios
-1. I check on my plants every day to make sure they are doing okay by watering them given the recommended amount, keeping track of its soil, and maintaining everything properly. Yet, I see this weird lump or sometimes random ‘rashes’ and when I try to google them it just says they are dying but they seem to still be doing fine the next day or week or even month. But I would still like to know what’s happening to the plant.
-2. I recently moved out on my own and wanted to get a few plants for my apartment, but I’m worried that I will do something wrong, or forget about something, and my plants won’t grow much, or at all. 
-3. I got a plant from a friend for my birthday. It came with a cute pot and no instructions whatsoever. I want my friend to see it alive next time they come for a visit, so I need to figure out what it is, and how to take care of it. 
-4. I’ve been taking care of plants for a long time, but now I have so many that it feels like I must go around and check them all every day. Since that takes a long time, I want to know which ones need attention. 
-5. I’ve never owned plants before and now that I have plants, I’m not sure if the way my plant is growing/developing is supposed to be normal, or if something has gone wrong with my plant. 
-6. My plant keeps growing at weird angles and now it looks kind of funny. How can I make it grow nice like the picture?
-
-
-#### Links and Citations
+### Links and Citations
 - Survey
     - [https://docs.google.com/forms/d/1nAPdWbr21YYhBJktySjQbKu4ycAECOAuJBMxZn7PvY4/edit?usp=sharing](https://docs.google.com/forms/d/1nAPdWbr21YYhBJktySjQbKu4ycAECOAuJBMxZn7PvY4/edit?usp=sharing)
 - Images
@@ -211,3 +119,10 @@ What would you like to see in a plant care app to help you?
     - [Google Images](https://www.google.ca/imghp?hl=en&tab=ri&authuser=0&ogbl)
 - Lucid Chart
     - [https://lucid.app/lucidchart/8b742d97-47c8-421e-bc19-ae333416c97a/edit?shared=true&page=0_0#?folder_id=home&browser=icon](https://lucid.app/lucidchart/8b742d97-47c8-421e-bc19-ae333416c97a/edit?shared=true&page=0_0#?folder_id=home&browser=icon)
+
+---
+
+### PDF
+Read Full Report and Appendix on the [PDF document](https://github.com/judgyknowitall/cpsc481_teamproject/blob/master/stage2/Stage%202%20Report%20-%20Group%20B.pdf).
+
+---

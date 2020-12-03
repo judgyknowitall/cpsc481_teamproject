@@ -59,3 +59,11 @@ The team project consists of five iterations:
 - Submission on the [stage_4 deliverable](https://github.com/judgyknowitall/cpsc481_teamproject/releases/tag/v4.0)
 
 ---
+
+## Stage 5
+- Report submitted on D2L and available on the [stage_5 branch](https://github.com/judgyknowitall/cpsc481_teamproject/tree/stage_5)
+- Stage 5 Demo Video available [here](https://uofc.sharepoint.com/sites/GrpO365_Science_ComputerScience_CPSC481F2020-TeamB/Shared%20Documents/Team%20B/stage_5/PotPerfect_V3.mp4)
+- Stage 5 report available [here](https://judgyknowitall.github.io/cpsc481_teamproject/stage_5)
+- Submission on the [stage_5 deliverable](https://github.com/judgyknowitall/cpsc481_teamproject/releases/tag/v5.0)
+
+---

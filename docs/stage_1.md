@@ -17,7 +17,7 @@ download_txt: Download deliverable
 ---
 
 ### Team Contract
-Please refer to D2L submission or [stage1 branch](https://github.com/judgyknowitall/cpsc481_teamproject/blob/stage1/TeamContract.pdf) for complete contract.  
+Please refer to D2L submission or [stage1 branch](https://github.com/judgyknowitall/cpsc481_teamproject/blob/master/stage1/TeamContract.pdf) for complete contract.  
 
 
 ### Online Repository
@@ -94,3 +94,10 @@ This service sounds like it would be best suited to be a mobile application, as 
 
 **Does this product already exist?**  
 Many applications for creating checklists exist, however there is not app that is a specific as this proposal, so the application will be created from scratch. However, UI’s from other list apps may be used and improved upon.
+
+---
+
+### PDF
+Read Full Proposal on the [PDF document](https://github.com/judgyknowitall/cpsc481_teamproject/blob/master/stage1/Proposal.pdf).
+
+---

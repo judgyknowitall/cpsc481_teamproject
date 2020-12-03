@@ -87,44 +87,14 @@ One area that didn’t go as well was the affinity diagram. As we had to set our
 
 ---
 
-### Appendix
-
-#### Cognitive Walkthrough Doc
-
-| Task# | Description of Task Step | Does user have training or knowledge to do this step? | Is it believable that they would do it? | Are they motivated? | Comments (including possible solutions) |  
-|:---:|:--- |:--- |:--- |:--- |:--- |  
-| 1v | Add a new plant via camera. | Yes, if the user has used any camera applications before. | Yes. | Yes. Leaves most guess work out of the user's hands and allows application to determine the plant for them. | Include instructions and illustrations on how the camera should be angled to better capture an image |  
-| 2v | Add a plant to the plant list via the catalogue. | No. This task must be made clear, and simple to use so that users can easily understand and use this function. | Yes. | Yes. As adding plants to the plant list makes it much easier to view the status of currently owned plants. | Users will be able to search the catalogue for specific plants, then easily add plants to their list from there.|  
-| 3v | Set a reminder for watering a plant. | No. Not intuitive unless the user is familiar with the interface and has explored the navigation thoroughly. | Yes. | Yes. Allows users to let application keep track of a plants watering schedule. | Notifications by the application may be disabled by the user, in which case the application might need to notify the user of the problem. |  
-| 4h | View the list of owned plants and their current status. | No. However, this task can be accomplished by opening the application. | Yes. | Users need to know the status of their plants quickly to check if any of the plants need attention. | This is the main function of our app. Must be most intuitive and illustrative. |  
-| 5h | View recommended plants. | No. Viewing the recommended plants does not require complex navigation, as they are found when the catalogue is opened without any search inputs. | Yes. | Yes. The user might like to find plants that they are not familiar with, and thus might browse the recommended plants list in the catalogue. | Adding text to let the user know that the default catalogue items are recommendations may help them understand what they’re seeing. |  
-| 6h | View plant information of an owned plant. | No. Current way would involve going to catalogue to search for the plant info and this process is not very intuitive. | No. A new user may not immediately know how the app works or how to navigate properly. | Yes. They may want to learn more about their plant species as a way to care better for them or simply out of curiosity. | Make My Plant Page scrollable where the top half would include plant care functions and the bottom would include plant information. |  
-| 7h | Search plant in catalogue. | Yes. If the user as used any type of search function before. | Yes. It is how users will be able to find plants in the catalogue. | Yes. As searching for a plant in the catalogue allows for users to access more functions, such as plant info and adding plants to their list. | Searching through the catalogue should be done through a search bar that will be clearly presented on the catalogue screen. |  
-| 8h | Add a new plant status. | No, since this task is not very important, it is hard to navigate to. | Yes. However, it is uncommon. | Yes. Users may want to keep a journal of their plant health at different times. | Since this is a minor task, it does not require as much attention. |  
-| 9h | Add a new plant via survey. | Yes. Since all surveys are made similarly, the user may find it intuitive. | Yes. | Yes. If they do not have a name or photo of the desired plant. | Add information about each answer so they are not ambiguous. Include a back button in case, they made a wrong choice. |  
-| 10h | Use the camera to find information on a plant. | Yes, the function to use the camera for scanning a plant is intuitive. | Yes. | Yes, they would be, as it would allow them to learn about a plant of theirinterest. | The user might not have a camera, or allow use of camera by the application, which would require the application to return to the previous interface in that case. |  
-| 11h | Edit a reminder that was previously set. | No. Not intuitive unless the user is familiar with the interface and has explored the navigation thoroughly. | Yes. | Yes. The user would not want a wrong reminder to remain unedited. But this action should be uncommon. | Make the edit button more inviting to users. Add a user guideline or hints on the reminders page. |  
-| 12h | Navigate smoothly between different interfaces. | No. This task must be made intuitively so the user does not need training to learn. Some back navigations don’t exist. | Yes. | Yes. By smoothly navigating between interfaces, the user can avoid frustration and save time. | The addition of a universal navigation bar that persists for all interfaces might make the navigation even more smooth for the users.  |  
-| 12’h | Access catalogue from “hamburger” menu. | No. | No. The “hamburger” menu is not immediately intuitive as there are no written descriptors, only images for navigating. | Yes. By using the “hamburger” menu, the user can save time on navigation. | Add a small font written description on each of the images. Keep a legend of the images elsewhere so that users know before accessing the “hamburger” menu what the images are. |  
-
-
-#### Affinity Diagram
-
-![Affinity Diagram](assets/pics/stage3_2.png)
-
-
-#### Samples of Ideas and sketches:
-
-![Affinity Diagram](assets/pics/stage3_3.jpg)  
-![Affinity Diagram](assets/pics/stage3_4.png)
-![Affinity Diagram](assets/pics/stage3_5.jpg)
-![Affinity Diagram](assets/pics/stage3_6.jpg)
-![Affinity Diagram](assets/pics/stage3_7.jpg)
-![Affinity Diagram](assets/pics/stage3_8.png)
-![Affinity Diagram](assets/pics/stage3_9.png)
-
-
-#### Links and Citations
+### Links and Citations
 - [Storyboard that](https://www.storyboardthat.com/) (used to create storyboard)
 - [Balsamiq](https://balsamiq.com/) (used to create Low-fidelity prototype)
 - [Affinity Diagram](https://lucid.app/invitations/accept/3cd5c01f-566b-4b3b-8397-10c54b50354b) made in [Lucid Chart](https://www.lucidchart.com/pages/landing?utm_source=google&utm_medium=cpc&utm_campaign=en_tier1_desktop_branded_x_exact&km_CPC_CampaignId=1490375427&km_CPC_AdGroupID=55688909257&km_CPC_Keyword=lucid%20chart&km_CPC_MatchType=e&km_CPC_ExtensionID=&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=442433236001&km_CPC_TargetID=kwd-55720648523&km_CPC_Country=9001331&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&mkwid=sVrXnwD0X_pcrid_442433236001_pkw_lucid%20chart_pmt_e_pdv_c_slid__pgrid_55688909257_ptaid_kwd-55720648523_&gclid=Cj0KCQiAy579BRCPARIsAB6QoIbWtBFYmcHLG1KyONwo2kiHybix1wI0vcCVvmLz0JFDW8Df9WfYp9caAoyGEALw_wcB)
+
+---
+
+### PDF
+Read Full Report and Appendix on the [PDF document](https://github.com/judgyknowitall/cpsc481_teamproject/blob/master/stage3/Stage3Report_teamB.pdf).
+
+---
