@@ -24,7 +24,7 @@ Follow this link to view our final High-fidelity Prototype Demo.
 
 ## Stage 4 Report
 
-### Executive Summaru
+### Executive Summary
 Our project aims to develop an application that can be used by people of any experience level when it comes to plant information, identification, and care. Our mobile application, PotPerfect, seeks to accomplish these goals through a user-friendly interface that was developed and refined using HCI principles and techniques such as user research, design sketches, prototyping, cognitive walkthroughs, and heuristic evaluations. Our team first conducted a survey to try and understand what a user might want from our application and what our focus should be. With this information we developed sketches reviewed them one-by-one to identify key aspects, and added them to the low-fidelity prototype.  
 
  
@@ -60,6 +60,7 @@ The first IDEO card that we selected was the _Surveys and Questionnaire_ card. W
 - Common issues plant owners struggle with 
 
 To achieve this, we created a survey. Of the 18 participants who took the survey, approximately 60% of them owned plants while the other 40% did not own plants. Comfort level with plants varied, but none of the participants felt that they were fully confident in their ability to care for plants. Even the participants who currently own plants actively avoid owning plants that require special care, and over half do not know what type of plants they own. For non-plant owners, it was clear that most would be more open to owning plants, but hesitant due to their lack of experience and knowledge, as well as the fear that they just end up killing the plants. This also correlates with the fact that two thirds of the participants had indicated that they have had a plant die in their care before. Half of the time, the plant deaths occurred for reasons unknown to the owner.  
+
 ![Why have your plants died? - BarGraph](assets/pics/stage5_1.png)
 
 
@@ -82,7 +83,9 @@ The decision to create optional guides for less intuitive functions was made to 
 
 #### Low Fidelity Prototyping
 The goal of lo-fi prototyping was to conceptualize designs and bring them to life. There were some concerns creating drawings since there were no connections or structure. One major concern was navigation. Lo-Fi design, although conveying minimum meaning, helped solidify how each page would lead to the next. The Lo-Fi also helped us to refine our mental image of the app, since it allowed us to see the dimensions of the phone and in turn helped us with positioning of the text, images, navigation bar and all the other features.  
+
 ![Moving from Sketches to Lo-Fi Prototyping to Hi-Fi Prototyping](assets/pics/stage5_2.png)
+
 
 #### High Fidelity Prototyping
 Moving into the hi-fi prototype, we were left with couple problems when it came to fleshing out the design of the app. We encountered issues with color schemes and all the different outcomes that each button, modal, and screen could lead to. Moving from the black and white squares and filler text of the lo-fi, we had to consider things like color schemes, what pictures to use and to fill text boxes with meaningful text. These were all criteria which we had to research and learn about. We learned quite a lot about color schemes that would fit best on to our app and we choose to go with light colors and light gradients which gave our app soothing colors matching the feeling that plants give. After researching images, text and color schemes and putting together the vision of the Lo-Fi we noticed that there was much more to the app then just the Lo-Fi. Meaning that there were many different circumstances that the app could end up in. For example, if one were to add a journal entry before or after they enter a custom reminder, the prototype could reach an odd state. Through this issue we learned of all the different situations that the app can go through and designed the Hi-Fi accordingly.
@@ -109,9 +112,6 @@ This semester was a whirlwind, and although there were times when our team strug
 ---
 
 ### PDF
-Read Full Report and Appendix on the [PDF document](https://github.com/judgyknowitall/cpsc481_teamproject/blob/master/stage4/stage4report_teamB.pdf).
+Read Full Report on the [PDF document](https://github.com/judgyknowitall/cpsc481_teamproject/blob/master/stage5/TeamB_Stage5_Report.pdf).
 
 ---
-
-(https://uofc.sharepoint.com/sites/GrpO365_Science_ComputerScience_CPSC481F2020-TeamB/Shared%20Documents/Team%20B/stage_5/PotPerfect_V3.mp4)
-(https://github.com/judgyknowitall/cpsc481_teamproject/releases/download/v5.0/TeamB_Stage5_Report.pdf)
